@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-24T09:44:51.101Z</updated>
+  <updated>2017-02-24T10:35:35.642Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,85 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于Markdown 写作</title>
+    <link href="http://yoursite.com/2017/02/24/markdown/"/>
+    <id>http://yoursite.com/2017/02/24/markdown/</id>
+    <published>2017-02-24T10:29:33.000Z</published>
+    <updated>2017-02-24T10:35:35.642Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="先引用一下百科"><a href="#先引用一下百科" class="headerlink" title="先引用一下百科"></a>先引用一下百科</h4><blockquote>
+<p>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p>
+</blockquote>
+<h4 id="用途"><a href="#用途" class="headerlink" title="用途"></a>用途</h4><blockquote>
+<p>当然是用来写博客啦！</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;先引用一下百科&quot;&gt;&lt;a href=&quot;#先引用一下百科&quot; class=&quot;headerlink&quot; title=&quot;先引用一下百科&quot;&gt;&lt;/a&gt;先引用一下百科&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://yoursite.com/categories/Markdown/"/>
+    
+    
+      <category term="写作" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的应用清单</title>
+    <link href="http://yoursite.com/2017/02/24/%E6%88%91%E7%9A%84%E5%BA%94%E7%94%A8%E6%B8%85%E5%8D%95/"/>
+    <id>http://yoursite.com/2017/02/24/我的应用清单/</id>
+    <published>2017-02-24T10:19:30.000Z</published>
+    <updated>2017-02-24T13:55:54.289Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>机型：Redmi Note2(红米Note2)<br>发行时间：2015.8.13<br>购入时间：2015.11.6<br>配置：联发科MT6795，2g ROM+16g RAM<br>价格：799元<br>评价：垃圾 续航垃圾 不过也陪我用了一年半了</p>
+</blockquote>
+<a id="more"></a>
+<h3 id="常用必备"><a href="#常用必备" class="headerlink" title="常用必备 "></a><strong>常用必备 </strong></h3><ul>
+<li><strong>via:</strong> 一般用来下载东西，逛国内网站。</li>
+<li><strong>google输入法：</strong> 不知道从什么时候改用这个了</li>
+<li><strong>酷市场：</strong> Amdroid应用市场，应用比较全，挺喜欢。</li>
+<li><strong>网易云音乐：</strong> 付费包 畅听包 音量增强器 完美！😘</li>
+</ul>
+<h3 id="社交类"><a href="#社交类" class="headerlink" title="社交类"></a><strong>社交类</strong></h3><ul>
+<li><strong>微信：</strong> 不经常用，为了和家人接轨</li>
+<li><strong>QQ：</strong> 毕竟从小用到大，人脉都在这，不得不用</li>
+<li><strong>百度贴吧：</strong> 大学时经常用。</li>
+<li><strong>Smooth</strong> 订阅一些微博，看段子热搜。</li>
+<li><strong>知乎：</strong> 都说很好的东西，其实没经常用</li>
+</ul>
+<h3 id="实用类"><a href="#实用类" class="headerlink" title="实用类"></a><strong>实用类</strong></h3><ul>
+<li><strong>印象笔记：</strong> 记忆辅助工具，整理碎片知识。</li>
+<li><strong>Pocket：</strong> 稍后读应用，适合保存网页。</li>
+</ul>
+<h3 id="系统辅助"><a href="#系统辅助" class="headerlink" title="系统辅助"></a><strong>系统辅助</strong></h3><ul>
+<li><strong>绿色守护：</strong> 用的捐赠破解版，应用自动休眠，减少ROM实用</li>
+<li><strong>Xposed框架：</strong> 安卓神器，玩机必备。</li>
+<li><strong>冰箱：</strong> 冻结不得不用，或者隐私的应用</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;机型：Redmi Note2(红米Note2)&lt;br&gt;发行时间：2015.8.13&lt;br&gt;购入时间：2015.11.6&lt;br&gt;配置：联发科MT6795，2g ROM+16g RAM&lt;br&gt;价格：799元&lt;br&gt;评价：垃圾 续航垃圾 不过也陪我用了一年半了&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Android" scheme="http://yoursite.com/categories/Android/"/>
+    
+    
+      <category term="程序员" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title>第一篇测试博客</title>
