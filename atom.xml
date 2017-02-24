@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>虚幻之岚</title>
+  <subtitle>有点操蛋</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-02-24T09:29:15.841Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Howe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇测试博客</title>
+    <link href="http://yoursite.com/2017/02/18/%E5%BC%80%E5%A7%8Bblog%EF%BC%8C%E5%93%88%E5%93%88/"/>
+    <id>http://yoursite.com/2017/02/18/开始blog，哈哈/</id>
+    <published>2017-02-18T07:42:21.000Z</published>
+    <updated>2017-02-24T09:29:15.841Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ww2.sinaimg.cn/mw690/006HAPUyjw8fcvwxizeb6j31400p0q7n.jpg" alt="image"><br>我来说说课本没教或者只是擦边球的吧,课本上经常唠叨我这里就不说了<br><a id="more"></a></p>
+<h3 id="重要"><a href="#重要" class="headerlink" title="重要"></a>重要</h3><p>(这些是开发中经常会用到的技能/知识)</p>
+<ol>
+<li>http协议 </li>
+<li>版本控制SVN/GIT</li>
+<li>JSON</li>
+<li>常用的设计模式</li>
+</ol>
+<h3 id="编程语言"><a href="#编程语言" class="headerlink" title="编程语言"></a>编程语言</h3><p>(课程上只有java、c#比较进阶些，还有其他语言教的都是皮毛)</p>
+<ol>
+<li>c++ 游戏开发必备</li>
+<li>JavaScript github使用人数最多的语言,因为它基本上什么都能做</li>
+</ol>
+<h3 id="移动端开发"><a href="#移动端开发" class="headerlink" title="移动端开发"></a>移动端开发</h3><p>我的本行，门槛低，易入门 。感觉没啥好说的，学校都有相应的课程，我记得我那个班好像没有关于移动端开发的课程，好像网编班有。</p>
+<p> <strong>如果</strong> 想一开始就学移动端开发，我建议你需要:</p>
+<ol>
+<li>理解面向对象(其实现在有很多文章在批判面向对象，但是我们作为彩笔，管他呢)</li>
+<li>会使用最基本的两三个设计模式<br>然后就可以安心地学ios或者android了。门槛够低吧，花的时间也是开学后一个月左右的事情。接下来的网络呀，数据库呀，由于开发进度的推进，会自然而然地去了解，然后莫名地就掌握了<br>！<br>！<br>！<br>！<br>！<br>！ </li>
+</ol>
+<p>然后你还需要逐步了解:<br>选修课有的我也不说了</p>
+<h3 id="滑稽"><a href="#滑稽" class="headerlink" title="滑稽"></a>滑稽</h3><ol>
+<li>nginx<br>你可能只听过汤姆猫，iis。我建议做后端方向一定要鸟姐哦</li>
+<li>bootstrap<br>做前端利器，当然这东西也有人反对，但存在就有意义，比较只是个别强迫症患者反对罢了</li>
+<li>nosql<br>高并发，分布式，速度快nosql的典范mongdb的发展已经惊动oracle<br>当然,它不能取代传统的sql，各有各的适用条件。</li>
+<li>node.js<br>去你的jsp,去你的asp </li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/mw690/006HAPUyjw8fcvwxizeb6j31400p0q7n.jpg&quot; alt=&quot;image&quot;&gt;&lt;br&gt;我来说说课本没教或者只是擦边球的吧,课本上经常唠叨我这里就不说了&lt;br&gt;
+    
+    </summary>
+    
+      <category term="絮叨" scheme="http://yoursite.com/categories/%E7%B5%AE%E5%8F%A8/"/>
+    
+      <category term="生活随记" scheme="http://yoursite.com/categories/%E7%B5%AE%E5%8F%A8/%E7%94%9F%E6%B4%BB%E9%9A%8F%E8%AE%B0/"/>
+    
+    
+      <category term="程序员" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+    
+  </entry>
+  
+</feed>
