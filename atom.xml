@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-24T09:29:15.841Z</updated>
+  <updated>2017-02-24T09:44:51.101Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/02/18/%E5%BC%80%E5%A7%8Bblog%EF%BC%8C%E5%93%88%E5%93%88/"/>
     <id>http://yoursite.com/2017/02/18/开始blog，哈哈/</id>
     <published>2017-02-18T07:42:21.000Z</published>
-    <updated>2017-02-24T09:29:15.841Z</updated>
+    <updated>2017-02-24T09:44:51.101Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://ww2.sinaimg.cn/mw690/006HAPUyjw8fcvwxizeb6j31400p0q7n.jpg" alt="image"><br>我来说说课本没教或者只是擦边球的吧,课本上经常唠叨我这里就不说了<br><a id="more"></a></p>
 <h3 id="重要"><a href="#重要" class="headerlink" title="重要"></a>重要</h3><p>(这些是开发中经常会用到的技能/知识)</p>
@@ -56,9 +56,7 @@
     
     </summary>
     
-      <category term="絮叨" scheme="http://yoursite.com/categories/%E7%B5%AE%E5%8F%A8/"/>
-    
-      <category term="生活随记" scheme="http://yoursite.com/categories/%E7%B5%AE%E5%8F%A8/%E7%94%9F%E6%B4%BB%E9%9A%8F%E8%AE%B0/"/>
+      <category term="生活随记" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E8%AE%B0/"/>
     
     
       <category term="程序员" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
